@@ -1,3 +1,4 @@
+first deploy
 # Rati Checkout
 
 Standalone hosted **Cash-on-Delivery checkout** page for Rati Logistics.
